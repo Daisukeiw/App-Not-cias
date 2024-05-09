@@ -86,7 +86,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Título",
+                Text(text = "Bastidores: Palmeiras tenta vender Estêvão acima da multa ao Chelsea e não descarta abrir concorrência",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 25.sp
                 )
@@ -96,7 +96,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Descrição da notícia",
+                Text(text = "Verdão vê ingleses como favoritos a fechar acordo com o atacante, mas ainda busca ajustar detalhes do contrato que não estão em sintonia entre as duas partes",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 15.sp
                 )
@@ -109,7 +109,7 @@ fun App() {
             ) {
                 Button(onClick = { /*TODO*/ }
                 ) {
-                    Text(text = "botão")
+                    Text(text = "Veja mais")
                 }
             }
             Row(
@@ -131,7 +131,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Título",
+                Text(text = "Pouco visadas: veja seis dicas para a defesa na rodada #6 do Cartola",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 25.sp
                 )
@@ -141,7 +141,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Descrição da notícia",
+                Text(text = "Confira dois goleiros, dois zagueiros e dois laterais que estão fora dos mais escalados",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 15.sp
                 )
@@ -154,7 +154,7 @@ fun App() {
             ) {
                 Button(onClick = { /*TODO*/ }
                 ) {
-                    Text(text = "botão")
+                    Text(text = "Veja mais")
                 }
             }
         }
@@ -176,7 +176,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Título",
+                Text(text = "Festa da torcida, entrega de Júnior Santos e confusão no VAR: a vitória do Botafogo por um ângulo diferente",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 25.sp
                 )
@@ -186,7 +186,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Descrição da notícia",
+                Text(text = "Triunfo do Alvinegro sobre a LDU direto do gramado do Estádio Nilton Santos",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 15.sp
                 )
@@ -199,7 +199,7 @@ fun App() {
             ) {
                 Button(onClick = { /*TODO*/ }
                 ) {
-                    Text(text = "botão")
+                    Text(text = "Veja mais")
                 }
             }
         }
@@ -221,7 +221,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Título",
+                Text(text = "Playoffs da NBA 2024: veja tabela, datas, horários e jogos",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 25.sp
                 )
@@ -231,7 +231,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Descrição da notícia",
+                Text(text = "Confira as datas e os horários (de Brasília) de todos os confrontos da fase final da NBA",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 15.sp
                 )
@@ -244,7 +244,7 @@ fun App() {
             ) {
                 Button(onClick = { /*TODO*/ }
                 ) {
-                    Text(text = "botão")
+                    Text(text = "Veja mais")
                 }
             }
         }
@@ -266,7 +266,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Título",
+                Text(text = "Shai Gilgeous-Alexander decide, e OKC vence Mavericks em jogo 1 da semifinal da Conferência Oeste",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 25.sp
                 )
@@ -276,7 +276,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Descrição da notícia",
+                Text(text = "Canadense foi o cestinha da partida e foi peça chave na primeira vitória da equipe na série",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 15.sp
                 )
@@ -289,7 +289,7 @@ fun App() {
             ) {
                 Button(onClick = { /*TODO*/ }
                 ) {
-                    Text(text = "botão")
+                    Text(text = "Veja mais")
                 }
             }
         }
@@ -311,7 +311,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Título",
+                Text(text = "NBA: Polícia investiga jogador dos Bucks por atirar bola contra torcedor",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 25.sp
                 )
@@ -321,7 +321,7 @@ fun App() {
                     .fillMaxWidth()
                     .background(Color.White)
             ) {
-                Text(text = "Descrição da notícia",
+                Text(text = "Discussão entre Patrick Beverley e fãs do Indiana Pacers é objeto de inquérito. Jogador da NBA reconhece que atitude é \"indesculpável\"",
                     fontFamily = FontFamily.SansSerif,
                     fontSize = 15.sp
                 )
@@ -334,100 +334,12 @@ fun App() {
             ) {
                 Button(onClick = { /*TODO*/ }
                 ) {
-                    Text(text = "botão")
+                    Text(text = "Veja mais")
                 }
             }
         }
-        Row(
-            Modifier
-                .fillMaxWidth()
-                .padding(8.dp)
 
-        )
-        {
 
-        }
-        Column (
-            Modifier
-                .fillMaxWidth()
-        ){
-            Row(
-                Modifier
-                    .fillMaxWidth()
-                    .background(Color.White)
-            ) {
-                Text(text = "Título",
-                    fontFamily = FontFamily.SansSerif,
-                    fontSize = 25.sp
-                )
-            }
-            Row(
-                Modifier
-                    .fillMaxWidth()
-                    .background(Color.White)
-            ) {
-                Text(text = "Descrição da notícia",
-                    fontFamily = FontFamily.SansSerif,
-                    fontSize = 15.sp
-                )
-            }
-            Row(
-                Modifier
-                    .fillMaxWidth()
-                    .background(Color.White),
-                Arrangement.Absolute.Right
-            ) {
-                Button(onClick = { /*TODO*/ }
-                ) {
-                    Text(text = "botão")
-                }
-            }
-        }
-        Row(
-            Modifier
-                .fillMaxWidth()
-                .padding(8.dp)
-
-        )
-        {
-
-        }
-        Column (
-            Modifier
-                .fillMaxWidth()
-        ){
-            Row(
-                Modifier
-                    .fillMaxWidth()
-                    .background(Color.White)
-            ) {
-                Text(text = "Título",
-                    fontFamily = FontFamily.SansSerif,
-                    fontSize = 25.sp
-                )
-            }
-            Row(
-                Modifier
-                    .fillMaxWidth()
-                    .background(Color.White)
-            ) {
-                Text(text = "Descrição da notícia",
-                    fontFamily = FontFamily.SansSerif,
-                    fontSize = 15.sp
-                )
-            }
-            Row(
-                Modifier
-                    .fillMaxWidth()
-                    .background(Color.White),
-                Arrangement.Absolute.Right
-            ) {
-                Button(onClick = { /*TODO*/ }
-                ) {
-                    Text(text = "botão")
-                }
-            }
-        }
 
     }
 
